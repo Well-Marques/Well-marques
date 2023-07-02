@@ -1,12 +1,11 @@
 #  <font size="5px" color="green"><b><i>Olá! eu sou o Wellington Marques✋
 </b></i></font>
-✅ Entusiasmado em iniciar a jornada no desenvolvimento Front-End.<br>
 ✅ Aprendendo os fundamentos de HTML, CSS e JavaScript.<br>
 ✅ Interesse em explorar frameworks populares, como React ou Vue.js.<br>
 ✅ Colaborativo e ansioso para participar de projetos em equipe.<br>
 ✅ Compartilhando pequenos projetos pessoais para demonstrar o aprendizado.<br>
 ✅ Aberto a receber feedback e orientações de desenvolvedores mais experientes.<br>
-✅ Buscando oportunidades de aprendizado, como estágios ou mentoria.
+✅ Buscando oportunidades de aprendizado.
 
 
 ## 🌐 Socials:
@@ -26,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Well-marques&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
 
 ### ✍️
-<i>"Na programação, assim como na vida, cada erro é uma oportunidade de aprendizado e cada desafio é uma chance de crescimento.</i>
+<i>"The quieter you are, the more you hear."</i>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Well-marques&icon=0&color=0)](https://visitcount.itsvg.in)
